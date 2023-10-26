@@ -118,4 +118,8 @@ export interface User {
 
 ## Conclusion
 
-This tutorial gives you a foundation for building your Threads Feed application. For further enhancements or functionalities, feel free to modify or extend the existing codebase. Enjoy coding!
+This tutorial gives you a foundation for building your Threads Feed application. For further enhancements or functionalities, feel free to modify or extend the existing codebase. Happy Hacking!
+
+## License
+
+This project is licensed under the MIT License.
